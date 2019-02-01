@@ -1,0 +1,22 @@
+
+.pass-colorbar {
+  height: 5px;
+  background-image: url(/home/ananthu/phishing/img/passwordmeter.jpg);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.pass-graybar {
+  height: 5px;
+  background-color:#484848;
+  width: 100%;
+  position: relative;
+}
+.pass-percent, .pass-text {
+  font-size: 1em;
+}
+
+.pass-percent {
+  margin-right: 2px;
+}
